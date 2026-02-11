@@ -57,16 +57,16 @@ Once activated, the RevealPoker overlay will appear during your games on the sup
 For any questions or issues, please reach out to our dedicated support team:
 
 *   **Email:** support@revealpoker.top
-*   **Telegram:** [RevealPoker Support](https://t.me/Bedmalcon_temp) *(Please update with the correct link)*
+*   **Telegram:** [RevealPoker Support](https://t.me/Bedmalcon_temp) 
 *   You can also check our [FAQ section](https://revealpoker.top/#faq) for answers to common questions.
 
 ## Roadmap
 
 We are constantly working on improving RevealPoker and adding support for new platforms. Future releases will include:
 
-*   *[Feature Idea 1: e.g., Hand history analysis]*
-*   *[Feature Idea 2: e.g., Support for Platform X]*
-*   *[Feature Idea 3: e.g., Advanced player statistics]*
+*   *[Feature 1: e.g., Hand history analysis]*
+*   *[Feature 2: e.g., Support for Platform X]*
+*   *[Feature 3: e.g., Advanced player statistics]*
 
 ## Contributing
 
